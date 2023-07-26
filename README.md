@@ -1,4 +1,4 @@
-p# Covid19-Detection-Using-Chest-X-Ray
+# Covid19-Detection-Using-Chest-X-Ray
 Using Convolutional Neural Network, I have implemented a classifier which detects whether the person is infected by Covid-19 or not.
 
 # Dataset
